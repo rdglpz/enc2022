@@ -1440,7 +1440,7 @@ button:focus {
   position: relative;
 }
 .freelancer-image {
-  background: rgba(0, 0, 0, 0) url("../images/freelancer-image_lr.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("../images/freelancer-image.jpg") no-repeat scroll center center / cover ;
   height: 100%;
   left: -15px !important;
   position: absolute;
