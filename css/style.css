@@ -3,7 +3,7 @@ convocatoria
 
 ========================*/
 
-/*=====  [Table of contents] ===== 
+/*=====  [Table of contents] =====
  1. google fonts Import
  2. default Style
  3. Side Navigation
@@ -784,7 +784,7 @@ nav.nav-menu-show {
   font-weight: bold;
   letter-spacing: 0;
   margin-bottom: 20px;
-  
+
 }
 .slider-content.text-white h2 span {
   font-size: 30px;
@@ -1268,7 +1268,7 @@ button:focus {
   position: absolute;
   top: 0;
   width: 100%;
-} 
+}
 #image-slider .slider-content {
   background: transparent;
   border-radius: 5px;
@@ -1440,7 +1440,7 @@ button:focus {
   position: relative;
 }
 .freelancer-image {
-  background: rgba(0, 0, 0, 0) url("../images/freelancer-image.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("../images/freelancer-image_lr.jpg") no-repeat scroll center center / cover ;
   height: 100%;
   left: -15px !important;
   position: absolute;
@@ -3417,9 +3417,9 @@ h1 .label, h2 .label, h3 .label, h4 .label, h5 .label, h6 .label, p .label {
 #video-post {
   padding-bottom: 90px;
 }
- 
+
 }
- 
+
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 .container {width:450px}
@@ -3428,8 +3428,8 @@ h1 .label, h2 .label, h3 .label, h4 .label, h5 .label, h6 .label, p .label {
 }
 .carousel-caption {
   left: 3%;
-} 
- 
+}
+
  .post-nav {
   display: none;
 }
@@ -3824,4 +3824,4 @@ ul.basic-menu li.menu-p-right a i {
 
 /* ====================================================
 [Copyright © 2018. All Rights Reserved By Team90Degree ]
-====================================================== 
+======================================================
